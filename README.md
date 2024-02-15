@@ -1,4 +1,3 @@
-![HealthSaathi](https://github.com/ShivamBansal07/4machli_Pentathon_Webathon/assets/82711261/b079485b-39c8-49cd-9854-ededf9495055)
 <div align="center">
   <h1>HealthSaathi</h1>
   <p>
